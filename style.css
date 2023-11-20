@@ -68,10 +68,24 @@ nav ul li a {
 display: block;
 }
 
+
 .collections:hover .drop-down{
     display: block;
 }
 
+.interiors a {
+    display: flex;
+}
+.collections a {
+    display: flex;
+}
+
+
+.dropdown-icon{
+    font-size: 20px;
+    position: relative;
+    right: -5px;
+}
 .content{
     margin-top: 14%;
     color: #3E2808;
