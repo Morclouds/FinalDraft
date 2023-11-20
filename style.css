@@ -112,12 +112,14 @@ display: block;
     font-weight: 600;
     line-height: 85px;
     margin-bottom: 1px;
+   
 
 }
 
 input[type=text], select, textarea {
     background-color: #3E2808;
     width: 50%;
+    color: #D9BE94;
     padding: 12px;
     border: 1px solid #ccc;
     border-radius: 4px;
@@ -144,3 +146,20 @@ input[type=text], select, textarea {
   input[type=submit]:hover {
     background-color: #D9BE94;
   }
+  .img-plant{
+    width: 800px;
+    height: 250px;
+    border-radius: 1rem;
+
+    }
+.image{
+    max-width: 50%;
+    max-height: 15%;
+    float: right;
+}
+.text{
+    padding-right: 30px;
+    float: right;}
+    
+
+  
